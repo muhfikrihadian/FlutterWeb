@@ -44,7 +44,7 @@ class _LandingPageState extends State<LandingPage> {
     return Scaffold(
       body: Stack(
         children: [
-          Image.asset("images/background.png",
+          Image.asset("background.png",
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height,
           fit: BoxFit.fill,
@@ -59,7 +59,7 @@ class _LandingPageState extends State<LandingPage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Image.asset("images/ic_logo.png", width: 100, height: 50,),
+                    Image.asset("ic_logo.png", width: 100, height: 50,),
                     Row(
                       children: [
                         navItem(title: "Guides", index: 0),
@@ -71,11 +71,11 @@ class _LandingPageState extends State<LandingPage> {
                         navItem(title: "Stories", index: 3),
                       ],
                     ),
-                    Image.asset("images/btn_my_account.png", width: 160, height: 50,),
+                    Image.asset("btn_my_account.png", width: 160, height: 50,),
                   ],
                 ),
                 SizedBox(height: 75,),
-                Image.asset("images/illustration.png", width: 550,),
+                Image.asset("illustration.png", width: 550,),
                 SizedBox(height: 85,),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
