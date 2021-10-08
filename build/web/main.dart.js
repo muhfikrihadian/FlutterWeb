@@ -32622,7 +32622,7 @@ X.q_.prototype={
 b4(){return new X.Ej(C.p)}}
 X.Ej.prototype={
 a_(a,b){var s=null,r=new X.X3(this),q=t.w,p=b.ah(q).f,o=t.p
-return new M.rj(T.Bo(C.cK,H.a([U.Nx("assets/images/background.png",C.he,b.ah(q).f.a.b,p.a.a),new T.kr(new V.bx(100,30,100,30),T.a4u(H.a([T.RB(H.a([U.Nx("assets/images/ic_logo.png",s,50,100),T.RB(H.a([r.$2$index$title(0,"Guides"),T.iL(s,s,50),r.$2$index$title(1,"Pricing"),T.iL(s,s,50),r.$2$index$title(2,"Team"),T.iL(s,s,50),r.$2$index$title(3,"Stories")],o),C.dC,C.cm),U.Nx("assets/images/btn_my_account.png",s,50,160)],o),C.nf,C.cm),T.iL(s,75,s),U.Nx("assets/images/illustration.png",s,s,550),T.iL(s,85,s),T.RB(H.a([new L.pE(C.y6,25,new P.I(4294875533),s),T.iL(s,s,10),L.a6j("Scroll to Learn More",B.a4X(C.m,20,C.bt),s,s)],o),C.ne,C.cm)],o),C.cm),s)],o),C.cB),s)}}
+return new M.rj(T.Bo(C.cK,H.a([U.Nx("background.png",C.he,b.ah(q).f.a.b,p.a.a),new T.kr(new V.bx(100,30,100,30),T.a4u(H.a([T.RB(H.a([U.Nx("ic_logo.png",s,50,100),T.RB(H.a([r.$2$index$title(0,"Guides"),T.iL(s,s,50),r.$2$index$title(1,"Pricing"),T.iL(s,s,50),r.$2$index$title(2,"Team"),T.iL(s,s,50),r.$2$index$title(3,"Stories")],o),C.dC,C.cm),U.Nx("btn_my_account.png",s,50,160)],o),C.nf,C.cm),T.iL(s,75,s),U.Nx("illustration.png",s,s,550),T.iL(s,85,s),T.RB(H.a([new L.pE(C.y6,25,new P.I(4294875533),s),T.iL(s,s,10),L.a6j("Scroll to Learn More",B.a4X(C.m,20,C.bt),s,s)],o),C.ne,C.cm)],o),C.cm),s)],o),C.cB),s)}}
 X.X3.prototype={
 $2$index$title(a,b){var s,r=null,q=this.a,p=q.d===a?C.V:C.bt
 p=L.a6j(b,B.a4X(new P.I(4280098364),18,p),r,r)
